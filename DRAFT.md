@@ -8,15 +8,17 @@
 
 ### Docker For Mac
 
-### Why loop alias and local DNS server is important?
-
-### Setup Kubernetes Platfrom using Docker For Mac
-
-### Learning about Docker Machine
+#### Learning about Docker Machine
 
 #### What is Hyperkit?
 
-### Setup Kubernetes Platform using minikube
+#### Why loop alias and local DNS server is important?
+
+### Setup Kubernetes
+
+#### Setup Kubernetes Platfrom using Docker For Mac
+
+#### Setup Kubernetes Platform using minikube
 
 ### Experimenting with Open Shift PaaS
 
